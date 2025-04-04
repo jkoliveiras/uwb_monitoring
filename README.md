@@ -12,7 +12,7 @@ Desenvolver um sistema funcional capaz de:
 ## 🧩 Componentes do Projeto
 
 - **Módulo UWB DWM1001C** (tags + âncoras)
-- **Raspberry Pi ** (gateway de rastreamento)
+- **Raspberry Pi** (gateway de rastreamento)
 - **Motor vibratório** (para alerta)
 - **MQTT Broker** (comunicação)
 - **Script Python + Código C++** para controle e alertas
